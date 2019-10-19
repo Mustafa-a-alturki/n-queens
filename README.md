@@ -1,4 +1,4 @@
-N-QUEEN
+# N-QUEEN
 
 N-Queen is approached a Constraint Satisfaction Problem, where there are N queens placed on a NxN board, each queen
 is attacked from any queen placed on the same row, column or diagonal. The solution to the problem is a placement of all
@@ -13,3 +13,4 @@ assignments, i.e. assignments where all variables Xi are assigned, and each assi
 function indicating the total number of possible attacks. 
 A solution is a complete assignment with objective function value of zero. 
 Simulated Annealing and Min-Conflicts algorithms are used here to find such an assignment.  
+   
