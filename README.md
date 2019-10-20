@@ -4,7 +4,7 @@ N-Queen is approached as a Constraint Satisfaction Problem, where there are N qu
 is attacked from any queen placed on the same row, column or diagonal. The solution to the problem is a placement of all
 the N queens such that no attack is possible.
 
-In this implementation, each queen is placed in a different column, thus eliminating source of attacks comming from the same column. 
+In this implementation, each queen is placed in a different column, thus eliminating attacks coming from the same column. 
 
 ## Definitions:
 - queen i is the queen placed on the ith column.
